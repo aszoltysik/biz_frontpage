@@ -4,10 +4,6 @@ layout: default
 permalink: /onas/
 ---
 
-## Kontakt
-
-Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
-
 <h2>O nas</h2>
 <hr />
 <p>
