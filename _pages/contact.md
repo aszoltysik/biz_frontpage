@@ -3,7 +3,13 @@ layout: default
 permalink: /contact/
 ---
 
-## Contact us
+## Kontakt
+
+Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+41-922 Radzionków, ul. Kużaja 17
+Tel. 32 388 87 50
+Fax. 32 289 42 76
+e-mail: sekretariat@pgk.radzionkow.pl
 
 <div class="row py-4">
     <div class="col-md-12">
@@ -14,21 +20,21 @@ permalink: /contact/
         <div class="form-group">
             <label class="col-md-3 control-label" for="name">Imię i nazwisko</label>
             <div class="col-md-9">
-            <input id="name" name="name" type="text" placeholder="Your name" class="form-control">
+            <input id="name" name="name" type="text" placeholder="Imię i nazwisko" class="form-control">
             </div>
         </div>
         <!-- Email input-->
         <div class="form-group">
             <label class="col-md-3 control-label" for="email">Twój adres e-mail</label>
             <div class="col-md-9">
-            <input id="email" name="email" type="text" placeholder="Your email" class="form-control">
+            <input id="email" name="email" type="text" placeholder="wpisz adres e-mail" class="form-control">
             </div>
         </div>
         <!-- Message body -->
         <div class="form-group">
             <label class="col-md-3 control-label" for="message">Napisz wiadomość</label>
             <div class="col-md-9">
-            <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5"></textarea>
+            <textarea class="form-control" id="message" name="message" placeholder="proszę wpisac wiadomość " rows="5"></textarea>
             </div>
         </div>
         <!-- Form actions -->
