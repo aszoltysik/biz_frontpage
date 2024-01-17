@@ -3,18 +3,41 @@ layout: default
 permalink: /services/
 ---
 
-## Full length services page
+## Klauzula informacyjna Rodo
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie eu turpis eu semper. Aliquam sed tempor ex. Curabitur pretium auctor tellus. Nulla vel nisl vulputate, ornare sem convallis, mollis eros. Pellentesque in lacus eros. Aliquam non turpis eu ex auctor varius eget vel orci. Aliquam pharetra leo sed risus mattis, at aliquet diam sagittis. Curabitur finibus malesuada ligula, sit amet fermentum ligula cursus nec. Praesent elit dolor, porttitor sit amet egestas a, aliquet sit amet velit. Cras ac dictum urna, at dictum nibh. Etiam ornare eleifend ultrices. Sed non condimentum urna. Sed lacinia ante quis nisl ultrices, nec tempor quam interdum. Duis sagittis fermentum nunc in tincidunt. Maecenas fringilla cursus laoreet.
+KLAUZULA INFORMACYJNA RODO
+Zgodnie z art. 13 Rozporządzenia Parlamentu Europejskiego i Rady Unii Europejskiej
+2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku
+z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (dalej: „Ogólne Rozporządzenie” lub „RODO”),
+informujemy, iż:
 
-Etiam convallis purus a ornare facilisis. Sed sodales accumsan mauris, ut congue sapien pretium id. Duis viverra consectetur posuere. Integer feugiat nulla ac elit pretium gravida. Donec laoreet porttitor dolor nec accumsan. Maecenas fringilla felis sodales nisl mattis, id congue sem volutpat. Nam ut dolor a ante iaculis porttitor ultricies et nisl. Maecenas sed sapien ac turpis aliquam elementum. Aliquam at eleifend metus. Curabitur ut fermentum turpis. Nulla tempus rutrum purus, non bibendum ante vulputate at. Nulla vel viverra nulla. Duis libero risus, ultricies non rhoncus at, tristique id velit. Duis ac ex tortor. Curabitur dui metus, ornare eu ornare vel, scelerisque in augue. Aliquam eget consectetur justo, ac hendrerit lectus.
-
-Fusce ullamcorper nisl eros. Mauris sed urna mattis, mattis velit non, dignissim massa. Aenean maximus ligula sed diam tincidunt, sed tempor metus finibus. Morbi ut nisi id sapien viverra malesuada ut ut dui. Mauris ut mollis magna, viverra fermentum metus. Proin ac ipsum quis mauris interdum sagittis. Fusce id massa eu dolor pharetra efficitur a sed nisi. Quisque quis gravida purus. Morbi facilisis sapien et tellus convallis, eu mattis nisl volutpat. Aliquam quis vehicula leo. Phasellus posuere dui orci, eu luctus neque sollicitudin sit amet. Donec nunc massa, posuere quis leo eget, porta dapibus velit. Maecenas quis pulvinar orci.
-
-Nunc varius sit amet ante id laoreet. Integer sapien nisl, accumsan dictum tempor eu, tempus at mi. Duis sit amet tellus elit. Aliquam tincidunt tellus eros, sed placerat ligula aliquam a. Morbi dapibus congue mauris, id dapibus lectus hendrerit at. Aliquam et porttitor metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet elit eu libero facilisis, sit amet vulputate leo rhoncus.
-
-Suspendisse accumsan ipsum nunc, sed fringilla metus hendrerit nec. Nulla gravida ante ac laoreet fermentum. Nunc aliquam nibh diam, id elementum urna convallis et. Duis mattis lacinia pharetra. Mauris ac lorem venenatis, ultricies nisl a, efficitur mauris. Etiam lacinia fermentum lectus, ac blandit nisi bibendum quis. Curabitur sit amet pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ut tincidunt nulla. Vivamus fermentum sapien semper ex convallis hendrerit. Sed id eleifend justo.
-
-Nunc quam sem, condimentum ut nibh vitae, facilisis laoreet ligula. Vestibulum ultrices sapien at nulla ullamcorper eleifend. Duis quam elit, pulvinar et aliquam a, porttitor sit amet sem. Suspendisse potenti. Maecenas et mollis enim. Morbi vel scelerisque felis. Maecenas ultrices sem eget neque suscipit, eget consequat magna efficitur.
-
-Vestibulum suscipit diam tortor, ut semper dolor elementum pulvinar. Curabitur vitae lacus ut augue viverra venenatis non non libero. Nullam vitae pharetra felis. Integer a turpis non libero posuere dictum eget id massa. Nulla ac lorem dictum, facilisis lectus a, pellentesque nisi. Phasellus sapien enim, rhoncus et mattis eu, facilisis sed est. Maecenas faucibus ultrices varius.
+1. Administratorem Pani/Pana danych osobowych jest Przedsiębiorstwo Gospodarki
+   Komunalnej Sp. z o.o. z siedzibą w Radzionkowie, ul. Jana Kużaja 17, wpisana
+   do rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy w Gliwicach,
+   Wydział X Gospodarczy Krajowego Rejestru Sądowego pod numerem KRS:
+   0000594969, NIP: 645 254 49 77, kapitał zakładowy o wysokości: 19.950.000,00 zł,
+   wpłacony w całości, zwana dalej Spółką, adres mailowy do kontaktu:
+   rodo@pgk.radzionkow.pl.
+2. Pana/Pani dane osobowe będą przetwarzane na podstawie art. 6 ust. 1 b RODO,
+   tj. w oparciu o niezbędność przetwarzania do wykonania umowy o zaopatrzenie w wodę
+   i odprowadzania ścieków, której jest Pani/Pan stroną i w celu wykonywania tej umowy.
+3. Pana/Pani dane osobowe nie będą ujawniane innym podmiotom, z wyjątkiem sytuacji
+   opisanych w przepisach powszechnie obowiązujących. Dostęp do danych będą mieli
+   jedynie upoważnieni pracownicy Administratora oraz ewentualnie podmiot,
+   który przetwarza Pani/Pana dane osobowe w imieniu Administratora na podstawie
+   zawartej umowy powierzenia przetwarzania danych osobowych.
+4. Pani/Pana dane osobowe będą przechowywane przez czas trwania umowy, a także
+   później tj. do czasu upływu terminu przedawnienia ewentualnych roszczeń
+   wynikających z umowy oraz do momentu wygaśnięcia obowiązku przechowywania
+   danych wynikającego z przepisów powszechnie obowiązujących, w tym także
+   obowiązku archiwizacyjnego, w zależności, który z tych terminów będzie dłuższy.
+5. Posiada Pani/Pan prawo dostępu do treści swoich danych oraz prawo ich sprostowania,
+   usunięcia lub ograniczenia przetwarzania, prawo do przenoszenia danych,
+   prawo wniesienia sprzeciwu wobec przetwarzania.
+6. Ma Pani/Pan prawo wniesienia skargi do Organu nadzorczego, gdy uzna Pani/Pan ,
+   że przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy RODO.
+7. Podanie danych jest dobrowolne, jednakże niezbędne do realizacji zawartej
+   z Panią/Panem umowy.
+8. Pani/Pana dane osobowe nie będą przetwarzane w sposób zautomatyzowany,
+   w tym profilowane.
