@@ -6,10 +6,16 @@ permalink: /contact/
 ## Kontakt
 
 Przedsiębiorstwo Gospodarki Komunalnej Sp. z o.o.
+
 41-922 Radzionków, ul. Kużaja 17
+
 Tel. 32 388 87 50
+
 Fax. 32 289 42 76
+
 e-mail: sekretariat@pgk.radzionkow.pl
+
+## Formularz kontaktowy
 
 <div class="row py-4">
     <div class="col-md-12">
