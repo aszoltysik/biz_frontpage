@@ -1,10 +1,10 @@
-title: Business Frontpage
-description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
+title: PGK Sp z o.o.
+description: Strona PGK Sp z o.o..
 
 # disabled because we are using a custom domain
-#baseurl: /business-frontpage 
+#baseurl: /business-frontpage
 
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#0066ff" # the scheme can be any HEX code like "#00aa55 mediumseagreen"
 
 sass:
   sass_dir: /assets/css/_sass
