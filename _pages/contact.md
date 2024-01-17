@@ -12,21 +12,21 @@ permalink: /contact/
         <fieldset>
         <!-- Name input-->
         <div class="form-group">
-            <label class="col-md-3 control-label" for="name">Name</label>
+            <label class="col-md-3 control-label" for="name">Imię i nazwisko</label>
             <div class="col-md-9">
             <input id="name" name="name" type="text" placeholder="Your name" class="form-control">
             </div>
         </div>
         <!-- Email input-->
         <div class="form-group">
-            <label class="col-md-3 control-label" for="email">Your E-mail</label>
+            <label class="col-md-3 control-label" for="email">Twój adres e-mail</label>
             <div class="col-md-9">
             <input id="email" name="email" type="text" placeholder="Your email" class="form-control">
             </div>
         </div>
         <!-- Message body -->
         <div class="form-group">
-            <label class="col-md-3 control-label" for="message">Your message</label>
+            <label class="col-md-3 control-label" for="message">Napisz wiadomość</label>
             <div class="col-md-9">
             <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5"></textarea>
             </div>
