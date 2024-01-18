@@ -23,7 +23,6 @@ informujemy, iż:
 2. Pana/Pani dane osobowe będą przetwarzane na podstawie art. 6 ust. 1 b RODO,
    tj. w oparciu o niezbędność przetwarzania do wykonania umowy o zaopatrzenie w wodę
    i odprowadzania ścieków, której jest Pani/Pan stroną i w celu wykonywania tej umowy.
-
 3. Pana/Pani dane osobowe nie będą ujawniane innym podmiotom, z wyjątkiem sytuacji
    opisanych w przepisach powszechnie obowiązujących. Dostęp do danych będą mieli
    jedynie upoważnieni pracownicy Administratora oraz ewentualnie podmiot,
